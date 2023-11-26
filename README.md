@@ -1,0 +1,1 @@
+get_next_line is one of the most useful function in your early 42 journey. The name is pretty self explanatory, it receives a opened File Descriptor and returns the first Line Malloc'ed, If it over reads the file it stores the rest on a static variable.
